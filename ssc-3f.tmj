@@ -763,7 +763,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Second Floor of SSC Building"
+         "value":"Third Floor of SSC Building"
         }, 
         {
          "name":"mapImage",
@@ -773,7 +773,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"SSC Building 2F"
+         "value":"SSC Building 3F"
         }, 
         {
          "name":"script",
